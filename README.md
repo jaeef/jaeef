@@ -1,5 +1,5 @@
 <h1 align="center">Hello!👋 I'm Abu Saleh Mohammad Jaeef</h1>
-<h2 align="center">A Student pursuing my Bachelors in Computer Science & Engineering </h2>
+<h4 align="center">I am pursuing Bachelors in Computer Science & Engineering </h4>
 
 
 - 📫Reach Me @ **asmjaeefjaeef@gmail.com**
