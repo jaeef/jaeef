@@ -2,7 +2,6 @@
 <h4 align="center">I am pursuing Bachelors in Computer Science & Engineering </h4>
 
 
-- 📫Reach Me @ **asmjaeefjaeef@gmail.com**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
