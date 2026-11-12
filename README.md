@@ -1,39 +1,65 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=jaeef&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
+<h1 align="center">Hi, I'm  Jaeef 👋</h1>
 
- 
-
-## 🛠️ Languages & Tools
-
-<h3 align="center">Programming Languages</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />
-
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
-
+  Developer from Dhaka, Bangladesh · I build small, local-first tools that solve real problems.
 </p>
 
 <p align="center">
-  <a href="https://github.com/jaeef">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jaeef&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
+  <a href="https://www.linkedin.com/in/asm-jaeef/"><img src="https://img.shields.io/badge/LinkedIn-asm--jaeef-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/jaeef?tab=repositories"><img src="https://img.shields.io/badge/GitHub-repositories-181717?logo=github&logoColor=white" alt="Repositories" /></a>
+</p>
+
+---
+
+## ⚡ Featured: git-saiyan
+
+<p align="center">
+  <a href="https://github.com/jaeef/git-saiyan">
+    <img src="https://raw.githubusercontent.com/jaeef/jaeef/output/dist/saiyan.svg" width="500" alt="My git-saiyan card" />
   </a>
 </p>
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/asm-jaeef/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>
+**[git-saiyan](https://github.com/jaeef/git-saiyan)** turns GitHub contributions into an animated Dragon Ball pixel-art card. It's a GitHub Action, written in TypeScript, that redraws this card every night.
+
+- **10 transformations**, from Kid Goku to Ultra Instinct, driven by lifetime contributions.
+- **Ki aura** that grows with your daily or weekly streak.
+- **Yearly Dragon Ball hunt**: collect all 7 to summon Shenron.
+- **Power-up stages** and a countdown to the next form.
+- **Pixel art drawn in code**, animated SVG and GIF output, with no Docker and no native modules.
+
+---
+
+## 🚀 Projects
+
+| Project | What it does | Stack |
+| :-- | :-- | :-- |
+| [offgrid-md](https://github.com/jaeef/offgrid-md) | Offline document-to-Markdown studio (PDF, Office, images, audio): 100% local, no cloud | React · FastAPI |
+| [ghostrecord-obs](https://github.com/jaeef/ghostrecord-obs) | Auto-records exactly one window with OBS, so nothing else on screen is captured | Python |
+| [aiub-captcha-solver-extension](https://github.com/jaeef/aiub-captcha-solver-extension) | On-device neural network captcha solver for the AIUB Student Portal | JavaScript |
+| [profilepulse](https://github.com/jaeef/profilepulse) | LinkedIn profile auditor with evidence-based scoring, fully client-side | TypeScript |
+| [CampusXP](https://github.com/jaeef/summer-25-26-CampusXP) | A radar for campus events and career drives | PHP |
+| [Computer-Graphics](https://github.com/jaeef/Computer-Graphics) | Computer Graphics course project at AIUB | C++ |
+| [ssh-setup-github-windows](https://github.com/jaeef/ssh-setup-github-windows) | Beginner-friendly guide to setting up SSH for GitHub on Windows | Guide |
+
+---
+
+## 🛠️ Tech stack
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
+---
 
+<p align="center"><sub>The card above updates every night from my real GitHub activity.</sub></p>
